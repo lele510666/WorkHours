@@ -51,7 +51,7 @@ Location data is processed locally and is never shared or stored on external ser
 -	Name: WorkHours
 -	Version: 1.0
 -	Platform: iOS
--	Supported Languages: Chinese (Simplified), English
+-	Supported languages: English, German, French, Korean, Simplified Chinese, Portuguese, Japanese, Spanish, and Italian
 
 
 # Support
