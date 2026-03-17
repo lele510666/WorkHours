@@ -49,7 +49,7 @@ Location data is processed locally and is never shared or stored on external ser
 # App Information
 
 -	Name: WorkHours
--	Version: 1.0.1
+-	Version: 1.0.2
 -	Platform: iOS
 -	Supported languages: English, German, French, Korean, Simplified Chinese, Portuguese, Japanese, Spanish, and Italian
 
