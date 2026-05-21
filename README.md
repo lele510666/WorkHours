@@ -1,6 +1,6 @@
 # Official Page for WorkHours App
 
-[Download on the App Store](https://apps.apple.com/ca/app/workhours-time-tracker/id6758633991)
+[Download on the App Store](https://apps.apple.com/app/id6758633991)
 
 WorkHours is a productivity app designed to help users track daily work hours, manage projects, and calculate income based on recorded time.
 
@@ -51,7 +51,7 @@ Location data is processed locally and is never shared or stored on external ser
 # App Information
 
 -	Name: WorkHours
--	Version: 1.1
+-	Version: 1.1.1
 -	Platform: iOS
 -	Supported languages: English, German, French, Korean, Simplified Chinese, Portuguese, Japanese, Spanish, and Italian
 
