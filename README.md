@@ -1,5 +1,7 @@
 # Official Page for WorkHours App
 
+[Download on the App Store](https://apps.apple.com/ca/app/workhours-time-tracker/id6758633991)
+
 WorkHours is a productivity app designed to help users track daily work hours, manage projects, and calculate income based on recorded time.
 
 It is suitable for: 
@@ -61,3 +63,7 @@ If you have any questions, issues, or feedback about WorkHours, please contact:
 Email: lele510666@outlook.com
 
 We will respond as soon as possible.
+
+---
+
+> **Future Plans:** Cross-platform support (including Android) is coming soon! Stay tuned for updates.
