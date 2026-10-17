@@ -23,7 +23,6 @@ This app does not collect, store, or transmit any personal data to external serv
 All data created or used by WorkHours is processed locally on your device.
 
 -	Work hour records, project data, and app settings are stored on the device
--	If iCloud Sync is enabled, data is synchronized securely through Apple’s iCloud service only
 -	No data is uploaded to any third-party server
 -	No analytics, advertising, or tracking services are used
 -	No user account or login is required to use the app
@@ -51,7 +50,7 @@ Location data is processed locally and is never shared or stored on external ser
 # App Information
 
 -	Name: WorkHours
--	Version: 1.1.2
+-	Version: 1.1.3
 -	Platform: iOS
 -	Supported languages: English, German, French, Korean, Simplified Chinese, Portuguese, Japanese, Spanish, and Italian
 
